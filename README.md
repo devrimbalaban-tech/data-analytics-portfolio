@@ -12,6 +12,18 @@ This repository contains selected projects demonstrating my skills in:
 - Python
 - Data Visualization
 
+## Machine Learning Areas
+
+During my data science training I worked on projects related to:
+
+- Regression
+- Classification
+- Clustering
+- Computer Vision
+- Natural Language Processing (NLP)
+- Recommendation Systems
+- Time Series Analysis
+
 ## Projects
 
 ### House Price Prediction
