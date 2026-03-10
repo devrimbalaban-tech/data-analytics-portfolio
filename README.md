@@ -14,37 +14,35 @@ This repository contains selected projects demonstrating my skills in:
 
 ## Projects
 
-### Heart Disease Analysis
-Analysis of clinical health data to identify potential indicators of heart disease.
-
-Tools:
-Python, Pandas, Scikit-learn, Seaborn
-
-Live Demo:
-https://huggingface.co/spaces/DevBal/heart-disease
-
-
 ### House Price Prediction
+
 Exploratory analysis and predictive modeling for housing price datasets.
 
-Tools:
-Python, Pandas, Scikit-learn, Streamlit
+Tools: Python, Pandas, Scikit-learn, Streamlit
 
-Live Demo:
-https://huggingface.co/spaces/DevBal/house-price
+Live Demo: https://huggingface.co/spaces/DevBal/house-price
 
 
 ### Disaster Tweets NLP
+
 Text classification model to detect disaster-related tweets.
 
-Tools:
-Python, NLP preprocessing, TF-IDF, Logistic Regression
+Tools: Python, NLP preprocessing, TF-IDF, Logistic Regression
+
+
+### Heart Disease Analysis
+
+Analysis of clinical health data to identify potential indicators of heart disease.
+
+Tools: Python, Pandas, Scikit-learn, Seaborn
+
+Live Demo: https://huggingface.co/spaces/DevBal/heart-disease
 
 
 ## Other Profiles
 
-Kaggle:
+Kaggle  
 https://www.kaggle.com/
 
-HuggingFace:
+HuggingFace  
 https://huggingface.co/DevBal
